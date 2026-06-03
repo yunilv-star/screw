@@ -1,0 +1,13 @@
+{
+        "1": [{ "name": "Zuan", "Count": 50 }],
+        "2": [{ "name": "BreakBoard", "Count": 4 }],
+        "3": [{ "name": "Zuan", "Count": 80 }],
+        "4": [{ "name": "BreakBoard", "Count": 4 }],
+        "5": [{ "name": "Zuan", "Count": 120 }],
+        "6": [{ "name": "BreakBoard", "Count": 4 }],
+        "7": [
+            { "name": "Coin", "Count": 500 },
+            { "name": "Zuan", "Count": 150 },
+            { "name": "BreakBoard", "Count": 2 }
+        ]
+    }

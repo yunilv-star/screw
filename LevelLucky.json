@@ -1,0 +1,14 @@
+{
+        "daily_time": -1,
+        "STEP_RULE":[3,3],
+        "items": [
+            { "name": "Coin", "Count":200, "weight":60 },
+            { "name": "Zuan", "Count": 50, "weight": 60 },
+            { "name": "Coin", "Count": 300, "weight": 20 },
+            { "name": "Zuan", "Count": 100, "weight": 20 },
+            { "name": "Coin", "Count": 400, "weight": 10 },
+            { "name": "Zuan", "Count": 150, "weight": 10 },
+            { "name": "Coin", "Count": 500, "weight": 5 },
+            { "name": "Zuan", "Count": 200, "weight":5 }
+        ]
+    }
